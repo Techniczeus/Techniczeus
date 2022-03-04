@@ -2,9 +2,9 @@
 <br><br>
 - 👀 I’m interested in learning new programming languages
 - <br>
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning C++, HTML and Java
 - <br>
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on everything I can
 -  <br>
 - 📫 How to reach me ...
 
